@@ -1,0 +1,350 @@
+2019-08-27 13:54:50,546 - MetricGAN_orignalData_v2_log1 - INFO - Now the 1 th epoch is starting.
+2019-08-27 14:04:33,574 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 1th epoch testSTOI is 0.9099793560448166, testPESQ is 1.6501751401760045
+2019-08-27 14:04:34,994 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 1 th model.
+2019-08-27 14:05:50,434 - MetricGAN_orignalData_v2_log1 - INFO - Now the 2 th epoch is starting.
+2019-08-27 14:17:06,137 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 2th epoch testSTOI is 0.8626238725366483, testPESQ is 1.4819250469936909
+2019-08-27 14:18:03,027 - MetricGAN_orignalData_v2_log1 - INFO - Now the 3 th epoch is starting.
+2019-08-27 14:29:22,255 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 3th epoch testSTOI is 0.9089307045686216, testPESQ is 2.009070542830866
+2019-08-27 14:29:23,000 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 3 th model.
+2019-08-27 14:30:17,192 - MetricGAN_orignalData_v2_log1 - INFO - Now the 4 th epoch is starting.
+2019-08-27 14:41:22,209 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 4th epoch testSTOI is 0.9234831264550557, testPESQ is 2.1135485645347427
+2019-08-27 14:41:22,978 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 4 th model.
+2019-08-27 14:42:20,266 - MetricGAN_orignalData_v2_log1 - INFO - Now the 5 th epoch is starting.
+2019-08-27 14:54:29,508 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 5th epoch testSTOI is 0.9213002804943005, testPESQ is 2.0620306762098104
+2019-08-27 14:54:30,231 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 5 th model.
+2019-08-27 14:55:23,860 - MetricGAN_orignalData_v2_log1 - INFO - Now the 6 th epoch is starting.
+2019-08-27 15:06:37,989 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 6th epoch testSTOI is 0.9211278111811128, testPESQ is 2.0845585981908354
+2019-08-27 15:07:35,927 - MetricGAN_orignalData_v2_log1 - INFO - Now the 7 th epoch is starting.
+2019-08-27 15:19:07,994 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 7th epoch testSTOI is 0.9253147672835523, testPESQ is 2.084570035483073
+2019-08-27 15:20:09,003 - MetricGAN_orignalData_v2_log1 - INFO - Now the 8 th epoch is starting.
+2019-08-27 15:31:58,131 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 8th epoch testSTOI is 0.922104307778435, testPESQ is 2.0249464093770797
+2019-08-27 15:32:58,526 - MetricGAN_orignalData_v2_log1 - INFO - Now the 9 th epoch is starting.
+2019-08-27 15:44:28,475 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 9th epoch testSTOI is 0.9258419178438096, testPESQ is 2.072984073636601
+2019-08-27 15:45:26,435 - MetricGAN_orignalData_v2_log1 - INFO - Now the 10 th epoch is starting.
+2019-08-27 15:57:04,202 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 10th epoch testSTOI is 0.9253347473429316, testPESQ is 2.208957913865163
+2019-08-27 15:57:04,970 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 10 th model.
+2019-08-27 15:58:06,282 - MetricGAN_orignalData_v2_log1 - INFO - Now the 11 th epoch is starting.
+2019-08-27 16:09:29,312 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 11th epoch testSTOI is 0.9230463470872775, testPESQ is 2.1150668926030685
+2019-08-27 16:10:28,293 - MetricGAN_orignalData_v2_log1 - INFO - Now the 12 th epoch is starting.
+2019-08-27 16:21:51,827 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 12th epoch testSTOI is 0.9247093678274968, testPESQ is 2.157807241365748
+2019-08-27 16:22:52,118 - MetricGAN_orignalData_v2_log1 - INFO - Now the 13 th epoch is starting.
+2019-08-27 16:34:20,719 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 13th epoch testSTOI is 0.9239073061662159, testPESQ is 2.127828055504456
+2019-08-27 16:35:24,115 - MetricGAN_orignalData_v2_log1 - INFO - Now the 14 th epoch is starting.
+2019-08-27 16:46:31,466 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 14th epoch testSTOI is 0.9233836359377349, testPESQ is 2.3055968270139786
+2019-08-27 16:46:32,225 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 14 th model.
+2019-08-27 16:47:34,106 - MetricGAN_orignalData_v2_log1 - INFO - Now the 15 th epoch is starting.
+2019-08-27 16:58:38,331 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 15th epoch testSTOI is 0.9242808095100681, testPESQ is 2.1459282694511046
+2019-08-27 16:58:39,008 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 15 th model.
+2019-08-27 16:59:37,832 - MetricGAN_orignalData_v2_log1 - INFO - Now the 16 th epoch is starting.
+2019-08-27 17:11:07,095 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 16th epoch testSTOI is 0.9250777796495521, testPESQ is 2.109241594967333
+2019-08-27 17:12:13,123 - MetricGAN_orignalData_v2_log1 - INFO - Now the 17 th epoch is starting.
+2019-08-27 17:23:32,073 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 17th epoch testSTOI is 0.9261087817107413, testPESQ is 2.1204763077995152
+2019-08-27 17:24:36,305 - MetricGAN_orignalData_v2_log1 - INFO - Now the 18 th epoch is starting.
+2019-08-27 17:35:46,292 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 18th epoch testSTOI is 0.9253307924931893, testPESQ is 2.227785111775676
+2019-08-27 17:36:52,737 - MetricGAN_orignalData_v2_log1 - INFO - Now the 19 th epoch is starting.
+2019-08-27 17:48:23,343 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 19th epoch testSTOI is 0.926903484527224, testPESQ is 2.2760916073056103
+2019-08-27 17:49:30,657 - MetricGAN_orignalData_v2_log1 - INFO - Now the 20 th epoch is starting.
+2019-08-27 18:00:45,532 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 20th epoch testSTOI is 0.9242644214301655, testPESQ is 2.1487621339490115
+2019-08-27 18:00:46,302 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 20 th model.
+2019-08-27 18:01:51,884 - MetricGAN_orignalData_v2_log1 - INFO - Now the 21 th epoch is starting.
+2019-08-27 18:13:00,922 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 21th epoch testSTOI is 0.9265307391160372, testPESQ is 2.258021830355079
+2019-08-27 18:14:06,854 - MetricGAN_orignalData_v2_log1 - INFO - Now the 22 th epoch is starting.
+2019-08-27 18:25:27,422 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 22th epoch testSTOI is 0.927176243384393, testPESQ is 2.3423936257084597
+2019-08-27 18:25:31,297 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 22 th model.
+2019-08-27 18:26:37,439 - MetricGAN_orignalData_v2_log1 - INFO - Now the 23 th epoch is starting.
+2019-08-27 18:37:45,255 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 23th epoch testSTOI is 0.9181205091091791, testPESQ is 2.186381842326192
+2019-08-27 18:38:56,451 - MetricGAN_orignalData_v2_log1 - INFO - Now the 24 th epoch is starting.
+2019-08-27 18:50:10,418 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 24th epoch testSTOI is 0.9238127615778235, testPESQ is 2.3350777952995116
+2019-08-27 18:51:20,717 - MetricGAN_orignalData_v2_log1 - INFO - Now the 25 th epoch is starting.
+2019-08-27 19:02:33,604 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 25th epoch testSTOI is 0.923908276626288, testPESQ is 2.303572800118946
+2019-08-27 19:02:34,496 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 25 th model.
+2019-08-27 19:03:44,471 - MetricGAN_orignalData_v2_log1 - INFO - Now the 26 th epoch is starting.
+2019-08-27 19:14:54,067 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 26th epoch testSTOI is 0.9259347715131121, testPESQ is 2.3241132709007823
+2019-08-27 19:16:03,533 - MetricGAN_orignalData_v2_log1 - INFO - Now the 27 th epoch is starting.
+2019-08-27 19:27:28,029 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 27th epoch testSTOI is 0.9255489532788176, testPESQ is 2.403307146094378
+2019-08-27 19:27:28,809 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 27 th model.
+2019-08-27 19:28:39,976 - MetricGAN_orignalData_v2_log1 - INFO - Now the 28 th epoch is starting.
+2019-08-27 19:39:39,293 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 28th epoch testSTOI is 0.9260878078313766, testPESQ is 2.222162360415876
+2019-08-27 19:40:48,978 - MetricGAN_orignalData_v2_log1 - INFO - Now the 29 th epoch is starting.
+2019-08-27 19:51:58,967 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 29th epoch testSTOI is 0.9183568539930296, testPESQ is 2.280112923059648
+2019-08-27 19:53:11,183 - MetricGAN_orignalData_v2_log1 - INFO - Now the 30 th epoch is starting.
+2019-08-27 20:04:17,417 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 30th epoch testSTOI is 0.9265191761873257, testPESQ is 2.266115015426886
+2019-08-27 20:04:18,134 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 30 th model.
+2019-08-27 20:05:28,907 - MetricGAN_orignalData_v2_log1 - INFO - Now the 31 th epoch is starting.
+2019-08-27 20:17:41,900 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 31th epoch testSTOI is 0.9216180023308593, testPESQ is 2.3737518241972597
+2019-08-27 20:18:54,385 - MetricGAN_orignalData_v2_log1 - INFO - Now the 32 th epoch is starting.
+2019-08-27 20:30:14,466 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 32th epoch testSTOI is 0.9240887003795625, testPESQ is 2.383889326337472
+2019-08-27 20:31:31,321 - MetricGAN_orignalData_v2_log1 - INFO - Now the 33 th epoch is starting.
+2019-08-27 20:42:54,780 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 33th epoch testSTOI is 0.9217223761891906, testPESQ is 2.368589408334019
+2019-08-27 20:44:07,606 - MetricGAN_orignalData_v2_log1 - INFO - Now the 34 th epoch is starting.
+2019-08-27 20:55:26,963 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 34th epoch testSTOI is 0.9253373393318922, testPESQ is 2.2739809107722584
+2019-08-27 20:56:44,588 - MetricGAN_orignalData_v2_log1 - INFO - Now the 35 th epoch is starting.
+2019-08-27 21:08:01,473 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 35th epoch testSTOI is 0.9239173429303946, testPESQ is 2.314979293826714
+2019-08-27 21:08:02,327 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 35 th model.
+2019-08-27 21:09:16,215 - MetricGAN_orignalData_v2_log1 - INFO - Now the 36 th epoch is starting.
+2019-08-27 21:20:50,414 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 36th epoch testSTOI is 0.9245622477931977, testPESQ is 2.3256892242188596
+2019-08-27 21:22:03,494 - MetricGAN_orignalData_v2_log1 - INFO - Now the 37 th epoch is starting.
+2019-08-27 21:33:24,100 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 37th epoch testSTOI is 0.9210392656569579, testPESQ is 2.3081074302057623
+2019-08-27 21:34:40,269 - MetricGAN_orignalData_v2_log1 - INFO - Now the 38 th epoch is starting.
+2019-08-27 21:45:48,246 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 38th epoch testSTOI is 0.9257541056430524, testPESQ is 2.348430389628827
+2019-08-27 21:47:05,753 - MetricGAN_orignalData_v2_log1 - INFO - Now the 39 th epoch is starting.
+2019-08-27 21:58:18,164 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 39th epoch testSTOI is 0.9247103518537405, testPESQ is 2.3352719423840345
+2019-08-27 21:59:34,454 - MetricGAN_orignalData_v2_log1 - INFO - Now the 40 th epoch is starting.
+2019-08-27 22:10:32,614 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 40th epoch testSTOI is 0.9236946783866384, testPESQ is 2.3507354762947674
+2019-08-27 22:10:33,507 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 40 th model.
+2019-08-27 22:11:47,024 - MetricGAN_orignalData_v2_log1 - INFO - Now the 41 th epoch is starting.
+2019-08-27 22:22:32,852 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 41th epoch testSTOI is 0.9260344604478887, testPESQ is 2.3544040216693602
+2019-08-27 22:23:50,952 - MetricGAN_orignalData_v2_log1 - INFO - Now the 42 th epoch is starting.
+2019-08-27 22:34:55,737 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 42th epoch testSTOI is 0.91870552306313, testPESQ is 2.3664233936268153
+2019-08-27 22:36:13,695 - MetricGAN_orignalData_v2_log1 - INFO - Now the 43 th epoch is starting.
+2019-08-27 22:47:19,260 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 43th epoch testSTOI is 0.9247569558345917, testPESQ is 2.3049785491910955
+2019-08-27 22:48:40,596 - MetricGAN_orignalData_v2_log1 - INFO - Now the 44 th epoch is starting.
+2019-08-27 23:00:01,899 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 44th epoch testSTOI is 0.9221479158410044, testPESQ is 2.3267663589959007
+2019-08-27 23:01:22,488 - MetricGAN_orignalData_v2_log1 - INFO - Now the 45 th epoch is starting.
+2019-08-27 23:12:27,029 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 45th epoch testSTOI is 0.9207136736167205, testPESQ is 2.380884365404694
+2019-08-27 23:12:27,891 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 45 th model.
+2019-08-27 23:13:47,211 - MetricGAN_orignalData_v2_log1 - INFO - Now the 46 th epoch is starting.
+2019-08-27 23:25:02,645 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 46th epoch testSTOI is 0.9225725305510489, testPESQ is 2.4088472855611913
+2019-08-27 23:25:03,454 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 46 th model.
+2019-08-27 23:26:22,616 - MetricGAN_orignalData_v2_log1 - INFO - Now the 47 th epoch is starting.
+2019-08-27 23:37:32,800 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 47th epoch testSTOI is 0.9215572570387109, testPESQ is 2.4186755546088357
+2019-08-27 23:37:33,691 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 47 th model.
+2019-08-27 23:38:57,857 - MetricGAN_orignalData_v2_log1 - INFO - Now the 48 th epoch is starting.
+2019-08-27 23:50:07,866 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 48th epoch testSTOI is 0.9139727933541045, testPESQ is 2.3411753452518607
+2019-08-27 23:51:32,025 - MetricGAN_orignalData_v2_log1 - INFO - Now the 49 th epoch is starting.
+2019-08-28 00:02:45,533 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 49th epoch testSTOI is 0.9258253794269871, testPESQ is 2.3393473768407858
+2019-08-28 00:04:10,562 - MetricGAN_orignalData_v2_log1 - INFO - Now the 50 th epoch is starting.
+2019-08-28 00:15:31,609 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 50th epoch testSTOI is 0.92482230615434, testPESQ is 2.33829450925577
+2019-08-28 00:15:32,496 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 50 th model.
+2019-08-28 00:16:58,319 - MetricGAN_orignalData_v2_log1 - INFO - Now the 51 th epoch is starting.
+2019-08-28 00:28:18,201 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 51th epoch testSTOI is 0.92267973020919, testPESQ is 2.3840200831589193
+2019-08-28 00:29:46,241 - MetricGAN_orignalData_v2_log1 - INFO - Now the 52 th epoch is starting.
+2019-08-28 00:41:01,102 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 52th epoch testSTOI is 0.9256059341749963, testPESQ is 2.3913376810191904
+2019-08-28 00:42:26,514 - MetricGAN_orignalData_v2_log1 - INFO - Now the 53 th epoch is starting.
+2019-08-28 00:53:28,901 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 53th epoch testSTOI is 0.9251223526765671, testPESQ is 2.385941012247095
+2019-08-28 00:54:57,694 - MetricGAN_orignalData_v2_log1 - INFO - Now the 54 th epoch is starting.
+2019-08-28 01:05:58,086 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 54th epoch testSTOI is 0.9260606885952718, testPESQ is 2.308629810376075
+2019-08-28 01:07:24,133 - MetricGAN_orignalData_v2_log1 - INFO - Now the 55 th epoch is starting.
+2019-08-28 01:18:27,893 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 55th epoch testSTOI is 0.922423766420248, testPESQ is 2.286549186098923
+2019-08-28 01:18:28,703 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 55 th model.
+2019-08-28 01:19:56,458 - MetricGAN_orignalData_v2_log1 - INFO - Now the 56 th epoch is starting.
+2019-08-28 01:30:47,235 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 56th epoch testSTOI is 0.9230636190185031, testPESQ is 2.342819767380224
+2019-08-28 01:32:12,610 - MetricGAN_orignalData_v2_log1 - INFO - Now the 57 th epoch is starting.
+2019-08-28 01:43:17,850 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 57th epoch testSTOI is 0.9221243985902146, testPESQ is 2.3368046914489526
+2019-08-28 01:44:48,937 - MetricGAN_orignalData_v2_log1 - INFO - Now the 58 th epoch is starting.
+2019-08-28 01:55:54,540 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 58th epoch testSTOI is 0.9243561119878013, testPESQ is 2.3374620992871162
+2019-08-28 01:57:25,634 - MetricGAN_orignalData_v2_log1 - INFO - Now the 59 th epoch is starting.
+2019-08-28 02:08:25,713 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 59th epoch testSTOI is 0.9242105047729932, testPESQ is 2.33171968379067
+2019-08-28 02:09:55,254 - MetricGAN_orignalData_v2_log1 - INFO - Now the 60 th epoch is starting.
+2019-08-28 02:21:20,306 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 60th epoch testSTOI is 0.9189985516920718, testPESQ is 2.357745825231654
+2019-08-28 02:21:21,221 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 60 th model.
+2019-08-28 02:22:54,537 - MetricGAN_orignalData_v2_log1 - INFO - Now the 61 th epoch is starting.
+2019-08-28 02:33:53,707 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 61th epoch testSTOI is 0.9221751002832768, testPESQ is 2.2673857145517777
+2019-08-28 02:35:23,832 - MetricGAN_orignalData_v2_log1 - INFO - Now the 62 th epoch is starting.
+2019-08-28 02:46:20,810 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 62th epoch testSTOI is 0.9198137873166257, testPESQ is 2.3493474415205062
+2019-08-28 02:47:52,116 - MetricGAN_orignalData_v2_log1 - INFO - Now the 63 th epoch is starting.
+2019-08-28 02:58:59,458 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 63th epoch testSTOI is 0.9237196421039501, testPESQ is 2.3294170672453722
+2019-08-28 03:00:33,394 - MetricGAN_orignalData_v2_log1 - INFO - Now the 64 th epoch is starting.
+2019-08-28 03:11:43,610 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 64th epoch testSTOI is 0.9211007637262679, testPESQ is 2.388534869962526
+2019-08-28 03:13:16,361 - MetricGAN_orignalData_v2_log1 - INFO - Now the 65 th epoch is starting.
+2019-08-28 03:24:37,300 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 65th epoch testSTOI is 0.9249387784850585, testPESQ is 2.417912138463224
+2019-08-28 03:24:38,147 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 65 th model.
+2019-08-28 03:26:09,740 - MetricGAN_orignalData_v2_log1 - INFO - Now the 66 th epoch is starting.
+2019-08-28 03:37:39,851 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 66th epoch testSTOI is 0.9222774464509388, testPESQ is 2.318719088452534
+2019-08-28 03:39:32,226 - MetricGAN_orignalData_v2_log1 - INFO - Now the 67 th epoch is starting.
+2019-08-28 03:51:20,110 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 67th epoch testSTOI is 0.9258151598059889, testPESQ is 2.295539566324752
+2019-08-28 03:52:58,635 - MetricGAN_orignalData_v2_log1 - INFO - Now the 68 th epoch is starting.
+2019-08-28 04:04:54,094 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 68th epoch testSTOI is 0.9204369860604935, testPESQ is 2.3648340579086136
+2019-08-28 04:06:30,892 - MetricGAN_orignalData_v2_log1 - INFO - Now the 69 th epoch is starting.
+2019-08-28 04:17:51,040 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 69th epoch testSTOI is 0.9209412621136818, testPESQ is 2.399029030383212
+2019-08-28 04:19:27,510 - MetricGAN_orignalData_v2_log1 - INFO - Now the 70 th epoch is starting.
+2019-08-28 04:30:43,635 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 70th epoch testSTOI is 0.92303485744125, testPESQ is 2.32543807238051
+2019-08-28 04:30:45,007 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 70 th model.
+2019-08-28 04:32:20,406 - MetricGAN_orignalData_v2_log1 - INFO - Now the 71 th epoch is starting.
+2019-08-28 04:43:51,427 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 71th epoch testSTOI is 0.9253111176437215, testPESQ is 2.3783392179938194
+2019-08-28 04:45:28,954 - MetricGAN_orignalData_v2_log1 - INFO - Now the 72 th epoch is starting.
+2019-08-28 04:57:12,304 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 72th epoch testSTOI is 0.9204075310423309, testPESQ is 2.3700967040455456
+2019-08-28 04:58:53,433 - MetricGAN_orignalData_v2_log1 - INFO - Now the 73 th epoch is starting.
+2019-08-28 05:10:29,732 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 73th epoch testSTOI is 0.9200269654923727, testPESQ is 2.364801106233041
+2019-08-28 05:12:08,480 - MetricGAN_orignalData_v2_log1 - INFO - Now the 74 th epoch is starting.
+2019-08-28 05:23:33,756 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 74th epoch testSTOI is 0.9258657822585987, testPESQ is 2.3673727930460164
+2019-08-28 05:25:12,314 - MetricGAN_orignalData_v2_log1 - INFO - Now the 75 th epoch is starting.
+2019-08-28 05:36:58,182 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 75th epoch testSTOI is 0.920404545682419, testPESQ is 2.396288530919158
+2019-08-28 05:36:59,169 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 75 th model.
+2019-08-28 05:38:40,396 - MetricGAN_orignalData_v2_log1 - INFO - Now the 76 th epoch is starting.
+2019-08-28 05:50:15,672 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 76th epoch testSTOI is 0.9195582588576925, testPESQ is 2.379284325010568
+2019-08-28 05:51:59,166 - MetricGAN_orignalData_v2_log1 - INFO - Now the 77 th epoch is starting.
+2019-08-28 06:03:36,321 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 77th epoch testSTOI is 0.9248743295167007, testPESQ is 2.426128341734988
+2019-08-28 06:03:37,365 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 77 th model.
+2019-08-28 06:05:19,971 - MetricGAN_orignalData_v2_log1 - INFO - Now the 78 th epoch is starting.
+2019-08-28 06:16:47,123 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 78th epoch testSTOI is 0.9258670417851683, testPESQ is 2.433149246480858
+2019-08-28 06:16:48,305 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 78 th model.
+2019-08-28 06:18:31,209 - MetricGAN_orignalData_v2_log1 - INFO - Now the 79 th epoch is starting.
+2019-08-28 06:30:13,091 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 79th epoch testSTOI is 0.9185110188147609, testPESQ is 2.3910784094947055
+2019-08-28 06:31:58,007 - MetricGAN_orignalData_v2_log1 - INFO - Now the 80 th epoch is starting.
+2019-08-28 06:43:34,698 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 80th epoch testSTOI is 0.9254922421392382, testPESQ is 2.42484979201289
+2019-08-28 06:43:35,734 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 80 th model.
+2019-08-28 06:45:21,628 - MetricGAN_orignalData_v2_log1 - INFO - Now the 81 th epoch is starting.
+2019-08-28 06:57:03,993 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 81th epoch testSTOI is 0.9239977970314844, testPESQ is 2.435084040303832
+2019-08-28 06:57:04,925 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 81 th model.
+2019-08-28 06:58:46,473 - MetricGAN_orignalData_v2_log1 - INFO - Now the 82 th epoch is starting.
+2019-08-28 07:10:23,231 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 82th epoch testSTOI is 0.9268302521952266, testPESQ is 2.361459218037939
+2019-08-28 07:12:12,451 - MetricGAN_orignalData_v2_log1 - INFO - Now the 83 th epoch is starting.
+2019-08-28 07:23:59,932 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 83th epoch testSTOI is 0.92582205310878, testPESQ is 2.3462406874281685
+2019-08-28 07:25:45,249 - MetricGAN_orignalData_v2_log1 - INFO - Now the 84 th epoch is starting.
+2019-08-28 07:37:10,341 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 84th epoch testSTOI is 0.9210270614082042, testPESQ is 2.440490187805833
+2019-08-28 07:37:11,361 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 84 th model.
+2019-08-28 07:38:58,661 - MetricGAN_orignalData_v2_log1 - INFO - Now the 85 th epoch is starting.
+2019-08-28 07:50:29,702 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 85th epoch testSTOI is 0.9225505434576953, testPESQ is 2.3612886201409458
+2019-08-28 07:50:30,886 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 85 th model.
+2019-08-28 07:52:16,879 - MetricGAN_orignalData_v2_log1 - INFO - Now the 86 th epoch is starting.
+2019-08-28 08:03:43,866 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 86th epoch testSTOI is 0.9257791928392007, testPESQ is 2.356197031956275
+2019-08-28 08:05:34,350 - MetricGAN_orignalData_v2_log1 - INFO - Now the 87 th epoch is starting.
+2019-08-28 08:16:42,699 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 87th epoch testSTOI is 0.9219054437631052, testPESQ is 2.334329419055032
+2019-08-28 08:18:28,962 - MetricGAN_orignalData_v2_log1 - INFO - Now the 88 th epoch is starting.
+2019-08-28 08:29:53,579 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 88th epoch testSTOI is 0.9221470021045799, testPESQ is 2.4068441414138646
+2019-08-28 08:31:45,070 - MetricGAN_orignalData_v2_log1 - INFO - Now the 89 th epoch is starting.
+2019-08-28 08:43:14,190 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 89th epoch testSTOI is 0.9206969726013466, testPESQ is 2.4046717481416406
+2019-08-28 08:45:06,900 - MetricGAN_orignalData_v2_log1 - INFO - Now the 90 th epoch is starting.
+2019-08-28 08:56:40,228 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 90th epoch testSTOI is 0.9186795105841111, testPESQ is 2.354205772280693
+2019-08-28 08:56:41,305 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 90 th model.
+2019-08-28 08:58:35,557 - MetricGAN_orignalData_v2_log1 - INFO - Now the 91 th epoch is starting.
+2019-08-28 09:09:49,030 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 91th epoch testSTOI is 0.912866002188884, testPESQ is 2.4458278813987104
+2019-08-28 09:09:50,122 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 91 th model.
+2019-08-28 09:11:36,875 - MetricGAN_orignalData_v2_log1 - INFO - Now the 92 th epoch is starting.
+2019-08-28 09:22:52,161 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 92th epoch testSTOI is 0.9143901678987574, testPESQ is 2.391113350402961
+2019-08-28 09:24:41,678 - MetricGAN_orignalData_v2_log1 - INFO - Now the 93 th epoch is starting.
+2019-08-28 09:36:24,730 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 93th epoch testSTOI is 0.9171238422770573, testPESQ is 2.382401758461323
+2019-08-28 09:38:18,011 - MetricGAN_orignalData_v2_log1 - INFO - Now the 94 th epoch is starting.
+2019-08-28 09:49:36,760 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 94th epoch testSTOI is 0.9189019908211812, testPESQ is 2.381719635238925
+2019-08-28 09:51:28,751 - MetricGAN_orignalData_v2_log1 - INFO - Now the 95 th epoch is starting.
+2019-08-28 10:03:37,549 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 95th epoch testSTOI is 0.9207588222795597, testPESQ is 2.4308116846871606
+2019-08-28 10:03:41,539 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 95 th model.
+2019-08-28 10:05:35,148 - MetricGAN_orignalData_v2_log1 - INFO - Now the 96 th epoch is starting.
+2019-08-28 10:18:18,822 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 96th epoch testSTOI is 0.9214188169920853, testPESQ is 2.446992894833528
+2019-08-28 10:18:19,707 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 96 th model.
+2019-08-28 10:20:14,350 - MetricGAN_orignalData_v2_log1 - INFO - Now the 97 th epoch is starting.
+2019-08-28 10:31:50,795 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 97th epoch testSTOI is 0.9231531196578665, testPESQ is 2.4773988732435175
+2019-08-28 10:31:51,738 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 97 th model.
+2019-08-28 10:33:41,333 - MetricGAN_orignalData_v2_log1 - INFO - Now the 98 th epoch is starting.
+2019-08-28 10:45:22,389 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 98th epoch testSTOI is 0.9199496431026922, testPESQ is 2.4313769016451054
+2019-08-28 10:47:20,094 - MetricGAN_orignalData_v2_log1 - INFO - Now the 99 th epoch is starting.
+2019-08-28 10:58:33,248 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 99th epoch testSTOI is 0.9206791762523533, testPESQ is 2.489805739336801
+2019-08-28 10:58:37,338 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 99 th model.
+2019-08-28 11:00:30,319 - MetricGAN_orignalData_v2_log1 - INFO - Now the 100 th epoch is starting.
+2019-08-28 11:11:45,880 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 100th epoch testSTOI is 0.921713984416188, testPESQ is 2.461400452024728
+2019-08-28 11:11:46,982 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 100 th model.
+2019-08-28 11:13:43,722 - MetricGAN_orignalData_v2_log1 - INFO - Now the 101 th epoch is starting.
+2019-08-28 11:25:04,333 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 101th epoch testSTOI is 0.9216679360656828, testPESQ is 2.4894263930980443
+2019-08-28 11:27:00,615 - MetricGAN_orignalData_v2_log1 - INFO - Now the 102 th epoch is starting.
+2019-08-28 11:38:11,878 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 102th epoch testSTOI is 0.9229090577497343, testPESQ is 2.5300497613774917
+2019-08-28 11:38:16,100 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 102 th model.
+2019-08-28 11:40:12,191 - MetricGAN_orignalData_v2_log1 - INFO - Now the 103 th epoch is starting.
+2019-08-28 11:51:57,553 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 103th epoch testSTOI is 0.9186858425171972, testPESQ is 2.507224751328959
+2019-08-28 11:53:57,563 - MetricGAN_orignalData_v2_log1 - INFO - Now the 104 th epoch is starting.
+2019-08-28 12:05:38,241 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 104th epoch testSTOI is 0.919651974483752, testPESQ is 2.495455936899463
+2019-08-28 12:07:37,450 - MetricGAN_orignalData_v2_log1 - INFO - Now the 105 th epoch is starting.
+2019-08-28 12:19:08,919 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 105th epoch testSTOI is 0.9201341928800333, testPESQ is 2.466876486985429
+2019-08-28 12:19:09,909 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 105 th model.
+2019-08-28 12:21:09,481 - MetricGAN_orignalData_v2_log1 - INFO - Now the 106 th epoch is starting.
+2019-08-28 12:32:46,218 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 106th epoch testSTOI is 0.920572652752623, testPESQ is 2.4535263138778003
+2019-08-28 12:34:45,695 - MetricGAN_orignalData_v2_log1 - INFO - Now the 107 th epoch is starting.
+2019-08-28 12:46:25,773 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 107th epoch testSTOI is 0.9187285813649567, testPESQ is 2.5065994384219348
+2019-08-28 12:48:26,256 - MetricGAN_orignalData_v2_log1 - INFO - Now the 108 th epoch is starting.
+2019-08-28 13:00:04,376 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 108th epoch testSTOI is 0.9206164650556065, testPESQ is 2.4785381988124944
+2019-08-28 13:02:06,921 - MetricGAN_orignalData_v2_log1 - INFO - Now the 109 th epoch is starting.
+2019-08-28 13:13:35,463 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 109th epoch testSTOI is 0.9187129977413804, testPESQ is 2.488880447247653
+2019-08-28 13:15:40,081 - MetricGAN_orignalData_v2_log1 - INFO - Now the 110 th epoch is starting.
+2019-08-28 13:26:47,918 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 110th epoch testSTOI is 0.922409287272289, testPESQ is 2.4919991840436615
+2019-08-28 13:26:49,232 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 110 th model.
+2019-08-28 13:28:49,966 - MetricGAN_orignalData_v2_log1 - INFO - Now the 111 th epoch is starting.
+2019-08-28 13:40:14,111 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 111th epoch testSTOI is 0.9217854304540737, testPESQ is 2.4859010881011927
+2019-08-28 13:42:14,325 - MetricGAN_orignalData_v2_log1 - INFO - Now the 112 th epoch is starting.
+2019-08-28 13:53:21,009 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 112th epoch testSTOI is 0.9168672199465446, testPESQ is 2.4554940859958965
+2019-08-28 13:55:25,186 - MetricGAN_orignalData_v2_log1 - INFO - Now the 113 th epoch is starting.
+2019-08-28 14:06:48,047 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 113th epoch testSTOI is 0.9202548215661897, testPESQ is 2.524868898310708
+2019-08-28 14:08:52,969 - MetricGAN_orignalData_v2_log1 - INFO - Now the 114 th epoch is starting.
+2019-08-28 14:20:18,300 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 114th epoch testSTOI is 0.915798882949132, testPESQ is 2.4511082649809643
+2019-08-28 14:22:26,213 - MetricGAN_orignalData_v2_log1 - INFO - Now the 115 th epoch is starting.
+2019-08-28 14:36:50,856 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 115th epoch testSTOI is 0.9223787351779902, testPESQ is 2.540827454438487
+2019-08-28 14:36:51,949 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 115 th model.
+2019-08-28 14:38:58,136 - MetricGAN_orignalData_v2_log1 - INFO - Now the 116 th epoch is starting.
+2019-08-28 14:50:44,625 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 116th epoch testSTOI is 0.9218088061901906, testPESQ is 2.524044955384384
+2019-08-28 14:52:52,854 - MetricGAN_orignalData_v2_log1 - INFO - Now the 117 th epoch is starting.
+2019-08-28 15:04:29,226 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 117th epoch testSTOI is 0.9260638493904456, testPESQ is 2.5450465080228826
+2019-08-28 15:04:30,640 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 117 th model.
+2019-08-28 15:06:38,162 - MetricGAN_orignalData_v2_log1 - INFO - Now the 118 th epoch is starting.
+2019-08-28 15:17:58,202 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 118th epoch testSTOI is 0.9186492928208433, testPESQ is 2.485993026963716
+2019-08-28 15:20:02,353 - MetricGAN_orignalData_v2_log1 - INFO - Now the 119 th epoch is starting.
+2019-08-28 15:31:28,175 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 119th epoch testSTOI is 0.9250358563273374, testPESQ is 2.4814460474310573
+2019-08-28 15:33:35,484 - MetricGAN_orignalData_v2_log1 - INFO - Now the 120 th epoch is starting.
+2019-08-28 15:45:03,663 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 120th epoch testSTOI is 0.9214342888537488, testPESQ is 2.5467617549363846
+2019-08-28 15:45:04,710 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 120 th model.
+2019-08-28 15:47:13,393 - MetricGAN_orignalData_v2_log1 - INFO - Now the 121 th epoch is starting.
+2019-08-28 15:58:48,489 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 121th epoch testSTOI is 0.9247586220992554, testPESQ is 2.552475823071396
+2019-08-28 15:58:49,719 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 121 th model.
+2019-08-28 16:00:55,280 - MetricGAN_orignalData_v2_log1 - INFO - Now the 122 th epoch is starting.
+2019-08-28 16:12:23,508 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 122th epoch testSTOI is 0.9233932451525129, testPESQ is 2.5718178857588074
+2019-08-28 16:12:24,566 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 122 th model.
+2019-08-28 16:14:32,618 - MetricGAN_orignalData_v2_log1 - INFO - Now the 123 th epoch is starting.
+2019-08-28 16:26:08,597 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 123th epoch testSTOI is 0.9242008175824912, testPESQ is 2.428673455582082
+2019-08-28 16:28:17,983 - MetricGAN_orignalData_v2_log1 - INFO - Now the 124 th epoch is starting.
+2019-08-28 16:39:26,988 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 124th epoch testSTOI is 0.9182992880455254, testPESQ is 2.4904142055407306
+2019-08-28 16:41:37,411 - MetricGAN_orignalData_v2_log1 - INFO - Now the 125 th epoch is starting.
+2019-08-28 16:53:33,164 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 125th epoch testSTOI is 0.9228040721733629, testPESQ is 2.536573519695152
+2019-08-28 16:53:34,347 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 125 th model.
+2019-08-28 16:55:43,857 - MetricGAN_orignalData_v2_log1 - INFO - Now the 126 th epoch is starting.
+2019-08-28 17:07:35,325 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 126th epoch testSTOI is 0.9205858088328521, testPESQ is 2.4841624041205472
+2019-08-28 17:09:44,591 - MetricGAN_orignalData_v2_log1 - INFO - Now the 127 th epoch is starting.
+2019-08-28 17:21:17,022 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 127th epoch testSTOI is 0.9171978430044576, testPESQ is 2.47375681547864
+2019-08-28 17:23:30,575 - MetricGAN_orignalData_v2_log1 - INFO - Now the 128 th epoch is starting.
+2019-08-28 17:35:00,003 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 128th epoch testSTOI is 0.9190244402900257, testPESQ is 2.496207912425393
+2019-08-28 17:37:12,341 - MetricGAN_orignalData_v2_log1 - INFO - Now the 129 th epoch is starting.
+2019-08-28 17:48:37,955 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 129th epoch testSTOI is 0.9188853270629027, testPESQ is 2.506392211445327
+2019-08-28 17:50:55,403 - MetricGAN_orignalData_v2_log1 - INFO - Now the 130 th epoch is starting.
+2019-08-28 18:02:17,519 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 130th epoch testSTOI is 0.9188337759348614, testPESQ is 2.504739844104619
+2019-08-28 18:02:18,683 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 130 th model.
+2019-08-28 18:04:32,833 - MetricGAN_orignalData_v2_log1 - INFO - Now the 131 th epoch is starting.
+2019-08-28 18:15:26,538 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 131th epoch testSTOI is 0.9219685494092965, testPESQ is 2.5247818428335838
+2019-08-28 18:17:36,088 - MetricGAN_orignalData_v2_log1 - INFO - Now the 132 th epoch is starting.
+2019-08-28 18:28:37,709 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 132th epoch testSTOI is 0.9235218734329438, testPESQ is 2.5502180960571885
+2019-08-28 18:30:50,773 - MetricGAN_orignalData_v2_log1 - INFO - Now the 133 th epoch is starting.
+2019-08-28 18:42:06,813 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 133th epoch testSTOI is 0.9210312088069005, testPESQ is 2.513622513529166
+2019-08-28 18:44:20,958 - MetricGAN_orignalData_v2_log1 - INFO - Now the 134 th epoch is starting.
+2019-08-28 18:55:22,604 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 134th epoch testSTOI is 0.9234889231930252, testPESQ is 2.5092458167990435
+2019-08-28 18:57:37,701 - MetricGAN_orignalData_v2_log1 - INFO - Now the 135 th epoch is starting.
+2019-08-28 19:08:38,048 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 135th epoch testSTOI is 0.9188389364989434, testPESQ is 2.4766327938408526
+2019-08-28 19:08:39,259 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 135 th model.
+2019-08-28 19:10:53,905 - MetricGAN_orignalData_v2_log1 - INFO - Now the 136 th epoch is starting.
+2019-08-28 19:22:14,268 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 136th epoch testSTOI is 0.9181027879910996, testPESQ is 2.5082723689310757
+2019-08-28 19:24:31,571 - MetricGAN_orignalData_v2_log1 - INFO - Now the 137 th epoch is starting.
+2019-08-28 19:36:18,675 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 137th epoch testSTOI is 0.9193421561050191, testPESQ is 2.518842295246217
+2019-08-28 19:38:40,069 - MetricGAN_orignalData_v2_log1 - INFO - Now the 138 th epoch is starting.
+2019-08-28 19:50:09,627 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 138th epoch testSTOI is 0.9198994639877005, testPESQ is 2.5230823392138895
+2019-08-28 19:52:35,076 - MetricGAN_orignalData_v2_log1 - INFO - Now the 139 th epoch is starting.
+2019-08-28 20:03:55,142 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 139th epoch testSTOI is 0.9218825577035371, testPESQ is 2.551158741116524
+2019-08-28 20:06:17,735 - MetricGAN_orignalData_v2_log1 - INFO - Now the 140 th epoch is starting.
+2019-08-28 20:17:36,755 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 140th epoch testSTOI is 0.9262015569295977, testPESQ is 2.5163111126827964
+2019-08-28 20:17:37,998 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 140 th model.
+2019-08-28 20:19:59,919 - MetricGAN_orignalData_v2_log1 - INFO - Now the 141 th epoch is starting.
+2019-08-28 20:31:22,519 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 141th epoch testSTOI is 0.9198568086525315, testPESQ is 2.503606392486582
+2019-08-28 20:33:47,625 - MetricGAN_orignalData_v2_log1 - INFO - Now the 142 th epoch is starting.
+2019-08-28 20:45:25,564 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 142th epoch testSTOI is 0.9222195088061361, testPESQ is 2.54368544709914
+2019-08-28 20:47:53,529 - MetricGAN_orignalData_v2_log1 - INFO - Now the 143 th epoch is starting.
+2019-08-28 20:59:20,367 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 143th epoch testSTOI is 0.9238863497050405, testPESQ is 2.5767861993856798
+2019-08-28 20:59:21,632 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 143 th model.
+2019-08-28 21:01:51,131 - MetricGAN_orignalData_v2_log1 - INFO - Now the 144 th epoch is starting.
+2019-08-28 21:13:14,798 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 144th epoch testSTOI is 0.9236608374036598, testPESQ is 2.590497016617395
+2019-08-28 21:13:15,872 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 144 th model.
+2019-08-28 21:15:41,872 - MetricGAN_orignalData_v2_log1 - INFO - Now the 145 th epoch is starting.
+2019-08-28 21:27:03,175 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 145th epoch testSTOI is 0.9228814968827926, testPESQ is 2.5705396042576116
+2019-08-28 21:27:04,339 - MetricGAN_orignalData_v2_log1 - INFO - Now save the 145 th model.
+2019-08-28 21:29:30,214 - MetricGAN_orignalData_v2_log1 - INFO - Now the 146 th epoch is starting.
+2019-08-28 21:40:52,167 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 146th epoch testSTOI is 0.9233240326020509, testPESQ is 2.579036977105928
+2019-08-28 21:43:20,322 - MetricGAN_orignalData_v2_log1 - INFO - Now the 147 th epoch is starting.
+2019-08-28 21:54:26,196 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 147th epoch testSTOI is 0.9254304097425227, testPESQ is 2.543548521486301
+2019-08-28 21:56:57,079 - MetricGAN_orignalData_v2_log1 - INFO - Now the 148 th epoch is starting.
+2019-08-28 22:07:59,276 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 148th epoch testSTOI is 0.9230965487604694, testPESQ is 2.5799166256362955
+2019-08-28 22:10:25,386 - MetricGAN_orignalData_v2_log1 - INFO - Now the 149 th epoch is starting.
+2019-08-28 22:21:39,247 - MetricGAN_orignalData_v2_log1 - INFO - The total wavfiles is 824. And the 149th epoch testSTOI is 0.9235957145507585, testPESQ is 2.576392272433031
+2019-08-28 22:24:04,069 - MetricGAN_orignalData_v2_log1 - INFO - Now the 150 th epoch is starting.
