@@ -60,7 +60,7 @@ random.seed(999)
 TargetMetric = 'pesq'  # It can be either 'pesq' or 'stoi' for now. Of course, it can be any arbitary metric of interest.
 Target_score = np.asarray([1.0])  # Target metric score you want generator to generate. s in e.q. (5) of the paper.
 
-output_path = '/nfs/cold_project/dengchengyun/MetricGAN-master/data0827'
+output_path = '/data/anakuzne/experiments/metric_gan'
 PESQ_path = '.'
 
 GAN_epoch = 800
@@ -245,15 +245,15 @@ def Corresponding_clean_list(file_list):
 
 #########################  Training data #######################
 print('Reading path of training data...')
-Train_Clean_path = '/nfs/cold_project/dengchengyun/sergan/se_relativisticgan/data2/clean_trainset_wav_16kHz/'
-Generator_Train_Noisy_paths = get_filepaths("/nfs/cold_project/dengchengyun/sergan/se_relativisticgan/data2/noisy_trainset_wav_16kHz")
+Train_Clean_path = '/data/anakuzne/voicebank-demand/clean_trainset_28spk_wav'
+Generator_Train_Noisy_paths = get_filepaths("/data/anakuzne/voicebank-demand/noisy_trainset_28spk_wav")
 num_of_sampling = len(Generator_Train_Noisy_paths)
 # Data_shuffle
 random.shuffle(Generator_Train_Noisy_paths)
 ######################### validation data #########################
 print('Reading path of validation data...')
-Test_Clean_path = '/nfs/cold_project/dengchengyun/sergan/se_relativisticgan/data2/clean_testset_wav_16kHz/'
-Generator_Test_Noisy_paths = get_filepaths("/nfs/cold_project/dengchengyun/sergan/se_relativisticgan/data2/noisy_testset_wav_16kHz")
+Test_Clean_path = '/data/anakuzne/voicebank-demand/clean_testset_wav'
+Generator_Test_Noisy_paths = get_filepaths("/data/anakuzne/voicebank-demand/noisy_testset_wav")
 num_of_valid_sample = len(Generator_Test_Noisy_paths)
 # Data_shuffle
 random.shuffle(Generator_Test_Noisy_paths)
