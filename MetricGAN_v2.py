@@ -7,7 +7,8 @@
 
 import matplotlib
 import os
-# os.environ['CUDA_VISIBLE_DEVICES'] = '3' # Use GPU 0，1, 2, 3
+ 
+os.environ['CUDA_VISIBLE_DEVICES'] = '3' # Use GPU 0，1, 2, 3
 
 # Force matplotlib to not use any Xwindows backend.
 matplotlib.use('Agg')
